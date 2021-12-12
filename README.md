@@ -1,7 +1,6 @@
 # Data_Mining
 # Project Data_Mining
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Elagasamel/Project-Data_Mining/main)
 
 
 
